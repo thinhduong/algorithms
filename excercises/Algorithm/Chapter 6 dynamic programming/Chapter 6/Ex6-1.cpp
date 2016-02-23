@@ -1,3 +1,7 @@
+/*
+L[j] = max(L[j - 1] + aj, aj)
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -50,7 +54,7 @@ int findIndexWithMaxValue(int n, int *arr)
         }
     }
 
-    cout << "max value" << max << endl;
+    cout << "max value " << max << endl;
 
     return idx;
 }
