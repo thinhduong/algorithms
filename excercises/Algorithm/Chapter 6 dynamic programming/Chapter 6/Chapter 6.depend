@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
-1456214373 source:d:\code\algorithms\excercises\algorithm\chapter 6 dynamic programming\chapter 6\ex6-1.cpp
+1456218605 source:d:\code\algorithms\excercises\algorithm\chapter 6 dynamic programming\chapter 6\ex6-1.cpp
+	<iostream>
+	<vector>
+
+1456218764 source:d:\code\algorithms\excercises\algorithm\chapter 6 dynamic programming\chapter 6\ex6-2.cpp
 	<iostream>
 	<vector>
 

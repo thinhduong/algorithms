@@ -68,7 +68,7 @@ void printPath(int idx, int *path)
     }
 }
 
-int main()
+/*int main()
 {
     int test[] = {5, 15, -30, 10, -5, 40, 10};
     vector<int*>ret = findContiguousSubsequence(7, test);
@@ -77,5 +77,5 @@ int main()
     printPath(idxMaxValue, ret[1]);
 
     return 0;
-}
+}*/
 
