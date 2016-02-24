@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1456287609 source:d:\code\algorithms\codeforces\codeforces\337a.cpp
+1456288797 source:d:\code\algorithms\codeforces\codeforces\337a.cpp
 	<iostream>
 	<vector>
 	<limits>
@@ -7,4 +7,20 @@
 	<sstream>
 	<string>
 	<algorithm>
+
+1456289894 source:d:\code\algorithms\codeforces\codeforces\580a.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<fstream>
+	<sstream>
+	<string>
+
+1456305411 source:d:\code\algorithms\codeforces\codeforces\455a.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<fstream>
+	<sstream>
+	<string>
 

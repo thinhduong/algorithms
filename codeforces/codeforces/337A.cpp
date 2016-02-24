@@ -32,6 +32,7 @@ public:
     }
 };
 
+/*
 int main()
 {
     Puzzles p;
@@ -65,3 +66,4 @@ int main()
 
     cout << p.solve(n, m, f);
 }
+*/
