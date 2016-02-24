@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1456287609 source:d:\code\algorithms\codeforces\codeforces\337a.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<fstream>
+	<sstream>
+	<string>
+	<algorithm>
+
