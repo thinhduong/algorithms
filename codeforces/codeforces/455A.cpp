@@ -64,6 +64,7 @@ public:
     }
 };
 
+/*
 int main()
 {
     size_t buf;
@@ -89,3 +90,4 @@ int main()
     long long b = prog.solve(n, f);
     cout << b;
 }
+*/
